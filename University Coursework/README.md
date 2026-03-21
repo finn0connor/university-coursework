@@ -1,0 +1,1 @@
+This folder contains various assignments and reports related to my university coursework.
